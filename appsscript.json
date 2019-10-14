@@ -1,0 +1,11 @@
+{
+  "timeZone": "Australia/Sydney",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "CCTReports",
+      "libraryId": "1AGiMljFLZPM3qhV5VvLaGI7FR6G8VI9CfAjFBDZxoKrncQN8V_LfunsR",
+      "version": "5"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
